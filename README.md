@@ -180,7 +180,7 @@ ${1:source} instanceof ${2:Object}
 ```
 
 #### Built-in types shortcuts:
-  * st: String
+  * str: String
   * nu: Number
   * ob: Object
   * ar: Array
