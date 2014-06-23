@@ -1,6 +1,6 @@
 ".source.js":
   "String":
-    prefix: "st"
+    prefix: "str"
     body: "String"
   "Number":
     prefix: "nu"
